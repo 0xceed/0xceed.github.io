@@ -6,6 +6,10 @@ copyright = '© Alexander Orlov'
 languageCode = 'en-us'
 pagination.pagerSize = 5
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
