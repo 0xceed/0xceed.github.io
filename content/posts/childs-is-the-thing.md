@@ -7,7 +7,7 @@ I've never been a big fan neither of cinematograph itself, nor particular movie 
 
 This time I have something to share, since I haven't found any explanation which was based on events from the picture, not on bold assumptions of their authors. I must admit, though, I will rely on a couple of small ones further.
 
-For all references I use Apple TV version of the picture. And second draft of the screenplay, which I found somewhere on the web. It differs from the movie, and, importantly, it differs in the last scene, but it will help us to unleash Childs' personality deeper.
+For all references I use [Apple TV](https://tv.apple.com/us/movie/the-thing/umc.cmc.70lpgfopfk3gr1pg7uux69znx) version of the picture. And second draft of the screenplay, which I found somewhere on the web. It differs from the movie, and, importantly, it differs in the last scene, but it will help us to unleash Childs' personality deeper.
 
 # McReady is a heavy drinker
 
@@ -27,11 +27,11 @@ Same green bottles, one of which was offered to Childs to drink from... see wher
 
 And here comes first assumption: Childs doesn't drink alcohol. Bold one, you say? Can't agree.
 
-Throughout whole movie, Childs never touches any alcohol. Moreover, while other drink actively, which we see a lot (and notably more for McReady), all Childs does is smoking pot. First evidence of this is right at 26:32, when Childs and Palmer are smoking pot (which you can tell undoubtedly by evaluating the blunt being passed from one to another). Meanwhile, others play poker, pool and... drink.
+Throughout whole movie, Childs never touches any alcohol. Moreover, while other drink actively, which we see a lot (and notably more for McReady), all Childs does is smoking pot. First evidence of this is right at `26:32`, when Childs and Palmer are smoking pot (which you can tell undoubtedly by evaluating the blunt being passed from one to another). Meanwhile, others play poker, pool and... drink.
 
 *Childs is laying down, waiting for his turn.*
 
-Interestingly, besides the ending scene, there is another one, where Childs and McReady use drugs. At 40:12, while discussing the Thing and it's origins, McReady drinks, and Childs smokes. I am not sure if this is a weed, since in a moment we observe Palmer smoking regular tobacco, but still: Childs doesn't bother himself about alcohol throughout whole picture.
+Interestingly, besides the ending scene, there is another one, where Childs and McReady use drugs. At `40:12`, while discussing the Thing and it's origins, McReady drinks, and Childs smokes. I am not sure if this is a weed, since in a moment we observe Palmer smoking regular tobacco, but still: Childs doesn't bother himself about alcohol throughout whole picture.
 
 *Childs does only smoke things. McReady, surely, drinks whiskey.*
 
@@ -65,9 +65,9 @@ All we have left to do is to guess, why these references were cut off from final
 
 There is no clear evidence on how memory works within Thing. Does it remember anything own by host organism? Does it develop its own memories and store themself? I would like to leave those questions aside, since, as you may have seen earlier in my cuts from original screenplay, if we judge by Blair's words, the Thing can violate the law of conservation of energy...
 
-Nonetheless, I have huge doubts that Thing could preserve memories of any living organism in the universe in a way that would allow it to follow personality of complex ones. I see this as reasonable assumption, because, when Garry suggests Norris to be in charge instead of him at 1:00:30, he looks frightened, and denies, mumbling. Little bit later we get to know that he was infected.
+Nonetheless, I have huge doubts that Thing could preserve memories of any living organism in the universe in a way that would allow it to follow personality of complex ones. I see this as reasonable assumption, because, when Garry suggests Norris to be in charge instead of him at `1:00:30`, he looks frightened, and denies, mumbling. Little bit later we get to know that he was infected.
 
-Palmer, who has been proven to be the Thing on McReady's test at 1:19:10 is quiet and sad. On the other hand, he is nervous enough at 1:06:33, when McReady orders him to go with Windows (Sanchez in screenplay draft). And, expectedly, Norris/Thing in this scene is standing still and quiet, trying to get along with anything that happens.
+Palmer, who has been proven to be the Thing on McReady's test at `1:19:10` is quiet and sad. On the other hand, he is nervous enough at `1:06:33`, when McReady orders him to go with Windows (Sanchez in screenplay draft). And, expectedly, Norris/Thing in this scene is standing still and quiet, trying to get along with anything that happens.
 
 That all makes me believe that Thing is not good enough in restoring personalities from consumed organisms. Instead, it tries to mimic others, acting out of common sense. And when drinking alcohol is great human tradition, and others drink a lot... it mimics by accepting a drink from other human. Makes a company.
 
@@ -77,9 +77,9 @@ What it doesn't know, though, or, being correct, can't remember, is that kerosin
 
 Finally, we can restore closing events of the film and see how Childs has busted himself as the Thing.
 
-At 1:26:40 crew is waiting for McReady. Right after Childs is left alone. We remember (from the movie itself and screenplay), that "the whole process would have taken an hour... maybe more" for the Thing to absorb another organism, and Childs had this timeframe with no doubts. Well, it's Blair/Thing who'd had this timeframe to absorb Childs, but anyway. Childs leaves his position and goes outside at 1:29:30. After 30 seconds Nauls sees him leaving indoors — that is last time we see uninfected Childs.
+At `1:26:40` crew is waiting for McReady. Right after Childs is left alone. We remember (from the movie itself and screenplay), that "the whole process would have taken an hour... maybe more" for the Thing to absorb another organism, and Childs had this timeframe with no doubts. Well, it's Blair/Thing who'd had this timeframe to absorb Childs, but anyway. Childs leaves his position and goes outside at `1:29:30`. After 30 seconds Nauls sees him leaving indoors — that is last time we see uninfected Childs.
 
-At 1:32:05 crew remainders ruin a building vehicle, pouring fuel around. Right after is first onscreen appearance of the Molotovs: Nauls threw one, following by McReady. The one McReady throwing, is in, presumably, wine bottle, while the others on his belt are made from... J&B Scotch Whisky! Green bottle with a yellow label and red tip.
+At `1:32:05` crew remainders ruin a building vehicle, pouring fuel around. Right after is first onscreen appearance of the Molotovs: Nauls threw one, following by McReady. The one McReady throwing, is in, presumably, wine bottle, while the others on his belt are made from... J&B Scotch Whisky! Green bottle with a yellow label and red tip.
 
 
 *Bottles on the belt are J&B Scotch Whisky. Same was offered to Childs in the end.*
@@ -88,8 +88,8 @@ Slow down here and concentrate:
 - Childs could not have known about how, where and in which count Molotovs were made.
 - storage room, containing other liquor has been destroyed by the ending scene.
 - there remained no booze onscreen. It was mentioned in screenplay, though, that McReady and Childs meet each other at internals, pub area, which was "Mostly untouched by the fire", but I ignore it, because these lines didn't make it to the final cut (like Childs being pothead did).
-- McReady comes out of a huge blast at 1:39:17, in an improvised coat, freezing. He holds a green bottle, which should contain J&B Scotch Whisky, but does it? Right at 1:39:35, when Childs appears behind McReady — not a second earlier, not a second later — our pilot make a move to pretend he is going to make a sip, but he doesn't.
+- McReady comes out of a huge blast at `1:39:17`, in an improvised coat, freezing. He holds a green bottle, which should contain J&B Scotch Whisky, but does it? Right at `1:39:35`, when Childs appears behind McReady — not a second earlier, not a second later — our pilot make a move to pretend he is going to make a sip, but he doesn't.
 
-And, given the timeframe in which Childs reaches McReady (like what, 17 seconds?), protagonist could've seen clearly, that Childs is coming. So he did, pretending he is going to drink whatever is within this green bottle. Eventually, at 1:41:40, Childs, having tough relationships with McReady all over the movie, is taking a great sip of kerosine, smiling. Shady beat music on background is not a coincidence, I assure you.
+And, given the timeframe in which Childs reaches McReady (like what, 17 seconds?), protagonist could've seen clearly, that Childs is coming. So he did, pretending he is going to drink whatever is within this green bottle. Eventually, at `1:41:40`, Childs, having tough relationships with McReady all over the movie, is taking a great sip of kerosine, smiling. Shady beat music on background is not a coincidence, I assure you.
 
 See where it has come to?
