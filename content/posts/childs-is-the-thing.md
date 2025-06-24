@@ -1,6 +1,7 @@
 +++
 title = "Childs is the Thing"
 date = "2023-03-05"
+tags = ["movies", "conspiracy"]
 +++
 
 I've never been a big fan neither of cinematograph itself, nor particular movie or movies. Still, I have a bunch of films I do like a lot, and those ones I've seen many, many times in my life. Once in a while I like to rewatch and discuss them with my friends or colleagues, but I rarely have complex and unique ideas related to the topic movie. It's always better for me to make a starting point from something in the film and go beyond it.
