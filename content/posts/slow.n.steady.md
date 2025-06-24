@@ -7,7 +7,7 @@ It so happened that the past year was full of beginnings. Wishing not to slow do
 
 As far as I remember, general factors for me always have been fear that I would fail and my own expectations. While last one might be different perk under different circumstances, the fear is extremely dangerous in different life aspects. For some reason, I implicitly treated mistakes and "wasted" time as an anomaly, something I should avoid. In reality, failure, unlike success, benefits more, when accepted and reasons understood. Such an understanding is essentially life experience which will allow one to success in the future.
 
-Mistakes — completely normal and natural adventure on any way. Chipping in on anything one like and are interested in, failing and ending up without any success at all — is the right way. Truly wasted time — the one which gone away without even failure, just because of fear that this outcome is possible.
+Mistakes are completely normal and natural adventure on any way. Chipping in on anything one likes and is interested in, failing and ending up without any success at all is the right way. Truly wasted time — the one which gone away without even failure, just because of fear that this outcome is possible.
 
 The fear of failure and inaction — that is real problem. Sure, there are a lot more of them, but that is fundamental one and most destructive.
 
