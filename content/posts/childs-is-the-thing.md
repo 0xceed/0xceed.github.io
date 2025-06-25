@@ -19,8 +19,8 @@ It's hard to provide all timestamps and references of McReady drinking, because 
 
 He drinks when playing chess with computer in his shack, he drinks while having a chat with others, he drinks when he's thinking of something deeply. He drinks when he's alone, he drinks in a company, he drinks any time it's possible and convenient for him.
 
-![](/images/the-thing/2.png) ![](/images/the-thing/3.png)
-![](/images/the-thing/4.png) ![](/images/the-thing/5.png)
+![](/images/the-thing/3.png) ![](/images/the-thing/4.png)
+![](/images/the-thing/5.png)
 
 Screenplay mentions that he drinks whiskey. Scotch whiskey, to be more precise. And, judging by the green bottle, I'm pretty sure it is J&B Scotch Whisky. Same green bottles which were used for make Molotovs in the final scenes.
 
