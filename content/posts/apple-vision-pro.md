@@ -1,7 +1,7 @@
 +++
 title = " Vision Pro"
 date = "2023-06-17"
-cover = "images/apple-vision-pro.png"
+cover = "/images/apple-vision-pro.png"
 tags = ["tech"]
 +++
 Two weeks ago, Apple unveiled their first "spatial computer", which is a virtual and mixed reality headset. Or is it?
@@ -24,6 +24,6 @@ Same applies to price, raw specs, "Pro" suffix and positioning: while $3500 is a
 
 # Is it?
 
-Today it is a VR headset. Tomorrow it could be an AR headset. Day after we will have different lineups with and without ability to "go deep" away from surroundings, and all these devices would fall into one category of "spatial computing", which Apple now uses, like before, to abstract away from hardware details, because what matters is user experience, interaction with hardware, how real human will get his tasks done.
+Today it *is* a VR headset. Tomorrow it could be an AR headset. Day after we will have different lineups with and without ability to "go deep" away from surroundings, and all these devices would fall into one category of "spatial computing", which Apple now uses, like before, to abstract away from hardware details, because what matters is user experience, interaction with hardware, how real human will get his tasks done.
 
 Modern smartphones, tablets, computers and their software are amazing, it went through a lot to the better. I hope I could see where spatial computing will lead us to, when it becomes mature enough, both in hardware and software.

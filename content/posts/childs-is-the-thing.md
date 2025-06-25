@@ -1,6 +1,7 @@
 +++
 title = "Childs is the Thing"
 date = "2023-03-05"
+cover = "/images/the-thing/1.png"
 tags = ["movies", "conspiracy"]
 +++
 
@@ -18,7 +19,8 @@ It's hard to provide all timestamps and references of McReady drinking, because 
 
 He drinks when playing chess with computer in his shack, he drinks while having a chat with others, he drinks when he's thinking of something deeply. He drinks when he's alone, he drinks in a company, he drinks any time it's possible and convenient for him.
 
-*McReady drinks all the time it's possible.*
+![](/images/the-thing/2.png) ![](/images/the-thing/3.png)
+![](/images/the-thing/4.png) ![](/images/the-thing/5.png)
 
 Screenplay mentions that he drinks whiskey. Scotch whiskey, to be more precise. And, judging by the green bottle, I'm pretty sure it is J&B Scotch Whisky. Same green bottles which were used for make Molotovs in the final scenes.
 
@@ -28,13 +30,13 @@ Same green bottles, one of which was offered to Childs to drink from... see wher
 
 And here comes first assumption: Childs doesn't drink alcohol. Bold one, you say? Can't agree.
 
-Throughout whole movie, Childs never touches any alcohol. Moreover, while other drink actively, which we see a lot (and notably more for McReady), all Childs does is smoking pot. First evidence of this is right at `26:32`, when Childs and Palmer are smoking pot (which you can tell undoubtedly by evaluating the blunt being passed from one to another). Meanwhile, others play poker, pool and... drink.
+Throughout whole movie, Childs never touches any alcohol. Moreover, while others drink actively, which we see a lot (and notably more for McReady), all Childs does is smoking pot. First evidence of this is right at `26:32`, when Childs and Palmer are smoking pot (which you can tell undoubtedly by evaluating the blunt being passed from one to another). Meanwhile, others play poker, pool and... drink.
 
-*Childs is laying down, waiting for his turn.*
+![](/images/the-thing/6.png)
 
-Interestingly, besides the ending scene, there is another one, where Childs and McReady use drugs. At `40:12`, while discussing the Thing and it's origins, McReady drinks, and Childs smokes. I am not sure if this is a weed, since in a moment we observe Palmer smoking regular tobacco, but still: Childs doesn't bother himself about alcohol throughout whole picture.
+Interestingly, besides the ending scene, there is another one, where Childs and McReady use drugs. At `40:12`, while discussing the Thing and its origins, McReady drinks, and Childs smokes. I am not sure if this is a weed, since in a moment we observe Palmer smoking regular tobacco, but still: Childs doesn't bother himself about alcohol throughout whole picture.
 
-*Childs does only smoke things. McReady, surely, drinks whiskey.*
+![](/images/the-thing/7.png) ![](/images/the-thing/8.png)
 
 Screenplay contains additional evidences of Childs being pothead.
 
@@ -83,7 +85,7 @@ At `1:26:40` crew is waiting for McReady. Right after Childs is left alone. We r
 At `1:32:05` crew remainders ruin a building vehicle, pouring fuel around. Right after is first onscreen appearance of the Molotovs: Nauls threw one, following by McReady. The one McReady throwing, is in, presumably, wine bottle, while the others on his belt are made from... J&B Scotch Whisky! Green bottle with a yellow label and red tip.
 
 
-*Bottles on the belt are J&B Scotch Whisky. Same was offered to Childs in the end.*
+![](/images/the-thing/9.png)
 
 Slow down here and concentrate:
 - Childs could not have known about how, where and in which count Molotovs were made.
@@ -94,3 +96,5 @@ Slow down here and concentrate:
 And, given the timeframe in which Childs reaches McReady (like what, 17 seconds?), protagonist could've seen clearly, that Childs is coming. So he did, pretending he is going to drink whatever is within this green bottle. Eventually, at `1:41:40`, Childs, having tough relationships with McReady all over the movie, is taking a great sip of kerosine, smiling. Shady beat music on background is not a coincidence, I assure you.
 
 See where it has come to?
+
+![](/images/the-thing/10.png)
